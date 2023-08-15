@@ -20,6 +20,6 @@
 
   
  
-  ![Snake animation](https://github.com/Vitoria-Floriano/Vitoria-Floriano/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Vitoria-Floriano/Vitoria-Floriano/blob/output/github-contribution-grid-snake.svg)
 
 </div>
