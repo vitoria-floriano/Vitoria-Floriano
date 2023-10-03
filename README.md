@@ -5,8 +5,6 @@ e conhecimentos adquiridos.<br>
 👉🏻 Conhecimento intermediário em HMTL e CSS.<br>
 👉🏻 Git e Github. <br>
 👉🏻 Inglês - básico; Leitura/ Escrita - intermediário. <br>
-👩🏻‍💻
-
 
  <div>
    <a href="https://github.com/Vitoria-Floriano">
