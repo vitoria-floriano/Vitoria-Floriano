@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 
-Oii, eu sou a Vie! 😊 Tenho 23 anos, e estou estudando Programação com o Curso DevQuest - Dev em Dobro. <br>
-Desenvolvedora Frontend Jr. Com o objetivo de iniciar minha carreira profissional a fim de praticar habilidades<br>
-e conhecimentos adquiridos.<br>
-👉🏻 Conhecimento intermediário em HMTL e CSS.<br>
+Oii, eu sou a Vie! 😊 Tenho 24 anos, e estou estudando Programação com o Curso DevQuest - Dev em Dobro. <br>
+Me tornando uma Desenvolvedora Frontend Jr, tenho como objetivo iniciar minha carreira profissional, e no futuro desenvolver empresas e grandes projetos.
+
+👉🏻 Conhecimento em HMTL, CSS, e Javascript<br>
 👉🏻 Git e Github. <br>
 👉🏻 Inglês - básico; Leitura/ Escrita - intermediário. <br>
 
