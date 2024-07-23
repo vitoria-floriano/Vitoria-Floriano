@@ -3,8 +3,6 @@ Oii, eu sou a Vie! 😊 Tenho 24 anos, e estou estudando Programação com o Cur
 Me tornando uma Desenvolvedora Frontend Jr, tenho como objetivo iniciar minha carreira profissional, e no futuro desenvolver empresas e grandes projetos.
 
 👉🏻 Conhecimento em HMTL, CSS, e Javascript<br>
-👉🏻 Git e Github. <br>
-👉🏻 Inglês - básico; Leitura/ Escrita - intermediário. <br>
 
  <div>
    <a href="https://github.com/Vitoria-Floriano">
